@@ -41,3 +41,22 @@ I am a highly motivated person with worked out self-learning abilities and good 
     return result 
     }
 ```
+
+## PROFESSIONAL EXPERIENCE
+    Solvd: Belarus, Minsk (March - April 2023)
+        
+    Internship in this company
+    - learned how to work with Git and GitHub
+    - Studied working with the React library
+    - Studied the React Styled library
+
+## EDUCATION
+
+    - Minsk State College of Digital Technologies Information technology software (2020 – 2024)
+
+    - Belarusian State University of Informatics and Radioelectronics 
+    IIT computer design software engineering, correspondence course 01.09. 2024 06.30.2028
+
+## LANGUAGE PROFICIENCY 
+ English B1 (Intermediate)
+
