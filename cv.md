@@ -33,3 +33,11 @@ I am a highly motivated person with worked out self-learning abilities and good 
         Agile (Scrum), Waterfall
     + Operating systems
         Desktop: Windows, Ubuntu Linux, Android, IOS 
+
+## CODE EXAMPLE
+```javascript
+    function multiply(a, b){
+    let result = a * b
+    return result 
+    }
+```
