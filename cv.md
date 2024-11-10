@@ -25,13 +25,13 @@ I am a highly motivated person with worked out self-learning abilities and good 
 - Team player
 
 ## TECHNICAL SKILLS
-- Tools
+- **Tools**
     Visual Studio 2022, Visual Studio Code, WebStorm, IntelliJ IDEA, Git Brash, World, Excel, 
- - Web Technologies 
+ - **Web Technologies**
     HTML, JavaScript, CSS, Bootstrap 5, React, PHP
-+ Methodologies
++ **Methodologies**
     Agile (Scrum), Waterfall
-+ Operating systems
++ **Operating systems**
     Desktop: Windows, Ubuntu Linux, Android, IOS 
 
 ## CODE EXAMPLE
