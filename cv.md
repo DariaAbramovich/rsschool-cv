@@ -1,5 +1,5 @@
 # Abramovich Daria
-*[Minsk, Belarus] | [E-mail: kamaradaria@gmail.com]  [Phone: +375447935582]*
+*[Minsk, Belarus] | [E-mail: <kamaradaria@gmail.com>]  [Phone: +375447935582]*
 
 ## PROFESSIONAL SUMMARY
 I am a highly motivated person with worked out self-learning abilities and good interpersonal skills willing to build my way forward enhancing and strengthening myself as a professional.
@@ -60,3 +60,6 @@ I am a highly motivated person with worked out self-learning abilities and good 
 ## LANGUAGE PROFICIENCY 
  English B1 (Intermediate)
 
+## LINKS
+    - GitHab: <https://github.com/DariaAbramovich>
+    - Telegram: <https://t.me/DariaAsh09>
