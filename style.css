@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.header{
+    margin: 30px auto ;
+    text-align: center;
+    /* color: aqua; */
+}
+.info{
+    margin: 50px;
+
+}
+.line {
+    width: 90%;
+    margin: 0 auto;
+    border-top: 3px solid #000000;
+  }
+h2{
+    
+}
+h3{
+
+}
+.skills-ul{
+
+}
